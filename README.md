@@ -2,6 +2,9 @@
 
 ### Setup
 1. Clone the repository
+    ```
+    git clone git@github.com:UmeshDhakal22/Simple_kafka.git
+    ```
 2. Create a virtual environment
     ```
     python -m venv .venv
